@@ -24,3 +24,21 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/LaxmansAryan/HeartAttackRiskPredictionUsingEvalML-Auto-ML-.git
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Explore the Jupyter notebooks and scripts in the project directory to see the different machine learning algorithms and EvalML in action.
+
+## Usage
+You can use this project as a reference for:
+
+- Understanding how to approach heart attack risk prediction with machine learning.
+- Experimenting with various algorithms and techniques.
+- Learning how to leverage EvalML for AutoML tasks.
+- Feel free to adapt the code and methodologies to your own datasets and use cases.
+
+## Contributing
+Contributions to this project are welcome. If you have suggestions, improvements, or new ideas, please create an issue or submit a pull request.
+
